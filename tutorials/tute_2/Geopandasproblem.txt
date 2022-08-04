@@ -1,0 +1,5 @@
+Install the geopandas via the anaconda
+Lacking the Fiona packages
+Change the Python version:to 3.8
+Rebuilt everything....
+then pip3 Install
